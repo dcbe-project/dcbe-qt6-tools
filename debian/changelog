@@ -1,9 +1,9 @@
-qt6-tools (6.2.2-3) UNRELEASED; urgency=medium
+qt6-tools (6.2.2-3) unstable; urgency=medium
 
   [ Patrick Franz ]
   * Upload to unstable.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 15 Feb 2022 21:57:28 +0100
+ -- Patrick Franz <deltaone@debian.org>  Tue, 15 Feb 2022 21:58:01 +0100
 
 qt6-tools (6.2.2-2) experimental; urgency=medium
 
