@@ -1,6 +1,6 @@
 # SymbolsHelper-Confirmed: 6.2.2 amd64
 libQt6UiTools.so.6 libqt6uitools6 #MINVER#
-| libqt6uitools6 #MINVER#, qt6-uitools-abi (= 6.2.2)
+| libqt6uitools6 #MINVER#, qt6-uitools-abi (= 6.2.4)
 * Build-Depends-Package: qt6-tools-dev
  _ZGVZN9QMetaType21registerConverterImplI5QListIP7QWidgetE9QIterableI13QMetaSequenceEEEbSt8functionIFbPKvPvEES_S_E10unregister@Base 6.2.2
  _ZGVZN9QMetaType23registerMutableViewImplI5QListIP7QWidgetE9QIterableI13QMetaSequenceEEEbSt8functionIFbPvS9_EES_S_E10unregister@Base 6.2.2

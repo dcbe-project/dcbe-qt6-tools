@@ -3,6 +3,7 @@ qt6-tools (6.2.4-1) UNRELEASED; urgency=medium
   [ Patrick Franz ]
   * New upstream release (6.2.4).
   * Bump Qt B-Ds to 6.2.4.
+  * Update ABI to 6.2.4.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 31 Mar 2022 23:18:07 +0200
 

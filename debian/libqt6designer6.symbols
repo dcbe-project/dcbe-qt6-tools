@@ -1,6 +1,6 @@
 # SymbolsHelper-Confirmed: 6.2.2 amd64
 libQt6Designer.so.6 libqt6designer6 #MINVER#
-| libqt6designer6 #MINVER#, qt6-designer-abi (= 6.2.2)
+| libqt6designer6 #MINVER#, qt6-designer-abi (= 6.2.4)
 * Build-Depends-Package: qt6-tools-dev
  _Z20domPropertyToVariantP20QAbstractFormBuilderPK11QMetaObjectPK11DomProperty@Base 6.2.2
  _Z20domPropertyToVariantPK11DomProperty@Base 6.2.2

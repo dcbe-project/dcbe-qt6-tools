@@ -30,7 +30,7 @@ Rules-Requires-Root: no
 Package: libqt6designer6
 Architecture: any
 Multi-Arch: same
-Provides: qt6-designer-abi (= 6.2.2)
+Provides: qt6-designer-abi (= 6.2.4)
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt 6 Designer library
@@ -55,7 +55,7 @@ Description: Qt 6 Designer Components library
 Package: libqt6help6
 Architecture: any
 Multi-Arch: same
-Provides: qt6-help-abi (= 6.2.2)
+Provides: qt6-help-abi (= 6.2.4)
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt 6 Help library
@@ -68,7 +68,7 @@ Description: Qt 6 Help library
 Package: libqt6uitools6
 Architecture: any
 Multi-Arch: same
-Provides: qt6-uitools-abi (= 6.2.2)
+Provides: qt6-uitools-abi (= 6.2.4)
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt 6 UI tools library
