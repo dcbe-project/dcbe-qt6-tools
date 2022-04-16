@@ -116,7 +116,8 @@ Package: qt6-documentation-tools
 Architecture: any
 Multi-Arch: foreign
 Section: utils
-Depends: qtchooser, ${misc:Depends}, ${shlibs:Depends}
+Depends: qtchooser, ${misc:Depends}, ${shlibs:Depends},
+         libqt6sql6-sqlite,
 Description: Qt 6 documentation tools
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
