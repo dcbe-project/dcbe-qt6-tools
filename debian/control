@@ -180,7 +180,12 @@ Package: qt6-tools-dev-tools
 Architecture: any
 Multi-Arch: foreign
 Section: devel
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends},
+         assistant-qt6 (= ${binary:Version}),
+         designer-qt6 (= ${binary:Version}),
+         linguist-qt6 (= ${binary:Version}),
+         qt6-documentation-tools (= ${binary:Version}),
+         qt6-l10n-tools (= ${binary:Version}),
 Description: Qt 6 development tools
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
