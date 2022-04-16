@@ -155,6 +155,7 @@ Depends: libqt6designer6 (= ${binary:Version}),
          libqt6help6 (= ${binary:Version}),
          libqt6uitools6 (= ${binary:Version}),
          qt6-base-dev,
+         qt6-tools-dev-tools (= ${binary:Version}),
          ${misc:Depends},
 Description: Qt 6 Tools - development files
  Qt is a cross-platform C++ application framework. Qt's primary feature
